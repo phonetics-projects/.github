@@ -2,8 +2,8 @@
 
 We (Keith Johnson and Ronald Sprouse) started this project page to host some phonetics software projects that we have been working on.
 
-* Phonlab has software for phonetics research.
-* Corpus_utils has more general purpose routines that may be useful in a variety of research and programming contexts.
+* [`phonlab`](https://github.com/phonetics-projects/phonlab)` has software for phonetics research.
+* [`file-organize`](https://github.com/phonetics-projects/file-organize) has functions for organizing files in experimental and other research contexts
 
 ## Contribution guidelines
 
