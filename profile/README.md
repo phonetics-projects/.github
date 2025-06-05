@@ -2,7 +2,7 @@
 
 We (Keith Johnson and Ronald Sprouse) started this project page to host some phonetics software projects that we have been working on.
 
-* [`phonlab`](https://github.com/phonetics-projects/phonlab)` has software for phonetics research.
+* [`phonlab`](https://github.com/phonetics-projects/phonlab) has software for phonetics research.
 * [`file-organize`](https://github.com/phonetics-projects/file-organize) has functions for organizing files in experimental and other research contexts
 
 ## Contribution guidelines
